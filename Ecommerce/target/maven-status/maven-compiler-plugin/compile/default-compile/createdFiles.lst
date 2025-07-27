@@ -1,0 +1,13 @@
+com\ziegler\Ecommerce\Controllers\ProductController.class
+com\ziegler\Ecommerce\Services\ProductService.class
+com\ziegler\Ecommerce\EcommerceApplication.class
+com\ziegler\Ecommerce\Repositories\CategoryRepository.class
+com\ziegler\Ecommerce\Controllers\CartController.class
+com\ziegler\Ecommerce\Model\Category.class
+com\ziegler\Ecommerce\Controllers\CategoryController.class
+com\ziegler\Ecommerce\Services\CategoryService.class
+com\ziegler\Ecommerce\Model\CartItem.class
+com\ziegler\Ecommerce\Model\Product.class
+com\ziegler\Ecommerce\Repositories\CartItemRepository.class
+com\ziegler\Ecommerce\Services\CartService.class
+com\ziegler\Ecommerce\Repositories\ProductRepository.class

@@ -1,0 +1,12 @@
+D:\Github project 2.0\Ecommerce\src\test\java\com\ziegler\Ecommerce\EcommerceApplicationTests.java
+D:\Github project 2.0\Ecommerce\src\test\java\pages\CartPage.java
+D:\Github project 2.0\Ecommerce\src\test\java\pages\CategoryPage.java
+D:\Github project 2.0\Ecommerce\src\test\java\pages\CheckoutPage.java
+D:\Github project 2.0\Ecommerce\src\test\java\pages\HomePage.java
+D:\Github project 2.0\Ecommerce\src\test\java\pages\ProductPage.java
+D:\Github project 2.0\Ecommerce\src\test\java\pages\RegistrationPage.java
+D:\Github project 2.0\Ecommerce\src\test\java\tests\CartAndCheckoutTest.java
+D:\Github project 2.0\Ecommerce\src\test\java\tests\ProductCartTest.java
+D:\Github project 2.0\Ecommerce\src\test\java\tests\RegistrationNegativeTest.java
+D:\Github project 2.0\Ecommerce\src\test\java\utilities\BaseTest.java
+D:\Github project 2.0\Ecommerce\src\test\java\utils\ScreenshotUtil.java

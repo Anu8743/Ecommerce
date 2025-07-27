@@ -1,0 +1,12 @@
+tests\RegistrationNegativeTest.class
+pages\ProductPage.class
+pages\CartPage.class
+pages\HomePage.class
+tests\CartAndCheckoutTest.class
+utilities\BaseTest.class
+com\ziegler\Ecommerce\EcommerceApplicationTests.class
+pages\CategoryPage.class
+pages\CheckoutPage.class
+pages\RegistrationPage.class
+utils\ScreenshotUtil.class
+tests\ProductCartTest.class
